@@ -7,6 +7,7 @@
 A comprehensive, battle-tested checklist for optimizing **MySQL** and **MariaDB** databases for high-traffic production environments. From indexing strategies to server configuration and query tuning.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
